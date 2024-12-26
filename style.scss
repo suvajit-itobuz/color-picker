@@ -1,0 +1,19 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  justify-content: space-between;
+  button {
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+}
+.top-button-container {
+  justify-content: space-between;
+  width: 100%;
+}
+.bottom-button-container {
+  justify-content: space-between;
+  width: 100%;
+}
